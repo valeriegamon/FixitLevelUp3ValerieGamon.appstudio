@@ -69,9 +69,3 @@ do
               i = i + 1
   } while (i <= times)
 
-
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 986b991bbce6a92492afddb17e2c26604fbfb6a8
