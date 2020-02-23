@@ -51,7 +51,11 @@ if (choice == 'Car') {
     console.log(`Your monthly car payment will be approximately $ ${monthlyCarPayment}.00.`);
     alert(`A car loan for $ ${principal} over ${months} months at yearly interest of  ${rate} would have a monthly payment of $ ${monthlyCarPayment}.`);
     
+<<<<<<< Updated upstream
 } else if  (choice == 'Home') {
+=======
+} /*else if  (choice == 'Home') {
+>>>>>>> Stashed changes
     let mon = Number(prompt('How many months will you be paying off your house? (15 years = 180 months, 30 years = 360 months)')); 
     let prin = Number(prompt('What is the principal amount on your house?'));
     let rat = Number(prompt('What is the yearly interest rate on your house? (Enter in Decimal form): '));
@@ -61,7 +65,12 @@ if (choice == 'Car') {
     console.log(`Your monthly house payment will be approximately $ ${monthlyHousePayment}.00.`)
     alert(`A home loan for $ ${prin} over ${mon} months at yearly interest of ${rat} would have a monthly payment of $ ${monthlyHousePayment}.`);
   
+<<<<<<< Updated upstream
   } else {
+=======
+  } */
+  else {
+>>>>>>> Stashed changes
     alert('Sorry, I cannot help you today.');
     }
 
