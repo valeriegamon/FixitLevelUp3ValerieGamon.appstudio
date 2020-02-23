@@ -18,8 +18,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "loans",
+            "loans.json"
           ]
         },
         {
@@ -47,7 +47,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "loans",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
